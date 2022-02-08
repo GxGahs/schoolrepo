@@ -1,0 +1,25 @@
+			APPEND()
+		  10K     20K     40K     80K     160K
+StringBuilder   | 57    | 78    | 40    | 47    | 41    |
+MyStringBuilder | 185   | 110   | 91    | 218   | 106   |
+String          | 7479  | 14182 | 26383 | 40462 | 66900 |
+
+			DELETE(0,1)
+		  10K     20K     40K     80K     160K
+StringBuilder   | 536   | 1099  | 1874  | 4540  | 7260  |
+MyStringBuilder | 73    | 31    | 23    | 174   | 44    |
+String          | 93    | 21    | 15    | 38    | 21    |
+
+			INSERT()
+		  10K     20K     40K     80K     160K
+StringBuilder   | 880   | 853   | 1714  | 3569  | 6754  |
+MyStringBuilder | 5053  | 8713  | 18693 | 37044 | 81426 |
+String          | 28409 | 50808 | 84748 | 154502| 299656|
+
+all times taken in nanoseconds.
+
+
+the winner of the append race was my own string builder class for smaller loads, and the predefined string builder for larger loads, although they are very close for the most part. The way that I implemented delete for the String was the fastest (S.substring(0,len)), with the predefined stringbuilder being much slower than the other implementations; MyStringBuilder was only a few times slower for a load of 160k operations.
+
+the implementation with the most variance was the insert method.the predefined stringbuilder was much faster than both my own implementation and the method i used to complete the task using strings. I think that the MyStringBuilder class with a defined front and back node is for most cases quicker than the other implementations of String formatting.
+

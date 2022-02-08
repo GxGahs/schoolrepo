@@ -1,0 +1,62 @@
+
+
+CS 0445 Assignment Information Sheet
+
+ 
+
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name:Jack Veith Assignment #: 1
+
+Lecture Day and Time: TTH 9:50AM
+
+Recitation Day and Time: W 10AM
+
+Program Due Date: 9/15
+
+Handed in Date: 9/15
+
+Source code (.java) file name(s):
+
+Assig1A.java
+Assig1B.java
+DequeInterface.java
+Indexable.java
+IndexableAddRemove.java
+IndexAddRemoveDeque.java
+IndexDeque.java
+MyDeque.java
+
+Input / output file name(s) (if applicable): ___________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: yes
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: yes
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+took a while to get it working from command line and getting pulse secure to function correctly.
+
+ 

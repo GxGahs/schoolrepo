@@ -1,0 +1,59 @@
+
+
+CS 0445 Assignment Information Sheet
+
+ 
+
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name: Jack Veith Assignment #: 3
+
+Lecture Day and Time: TTH 9:25AM
+
+Recitation Day and Time: W 10:00AM
+
+Program Due Date: 10/29
+
+Handed in Date: 10/29
+
+Source code (.java) file name(s):
+
+Assig3.java
+Assig3B.java
+Assig3C.java
+MyStringBuilder2.java
+
+Input / output file name(s) (if applicable): ___________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: yes
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: yes
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+was unable to implement lastIndex and regMatch. lastIndex should return -1 always
+and regMatch returns an empty MSB2 array of size 1.
+
+

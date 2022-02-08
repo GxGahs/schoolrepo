@@ -1,0 +1,60 @@
+
+
+CS 0445 Assignment Information Sheet
+
+ 
+
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+name: Jack Veith Assignment #: 4
+
+Lecture Day and Time: TTh 9:30AM
+
+Recitation Day and Time: W 10:00AM
+
+Program Due Date: 11/17
+
+Handed in Date: 11/19
+
+Source code (.java) file name(s):
+
+Assig4.java
+Quick.java
+QuickRandom.java
+TextMergeQuick.java
+SortAlgorithms.java
+
+Input / output file name(s) (if applicable): 
+
+
+
+Does your program compile without error?: yes
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: no
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+was unable to run from the command line properly using the -Xss argument
+
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+ 
+
+________________________________________________________________
+
+ 
